@@ -1,6 +1,4 @@
 📊 Week 3 Day 1 – Machine Learning Fundamentals Challenge
-📌 Internship Assignment
-This repository contains my submission for the AIML Internship – Week 3 Day 1 Assignment, focused on understanding the complete Machine Learning workflow using Scikit-learn.
 🎯 Objective
 The main goal of this assignment is to:
 Understand the Machine Learning workflow
